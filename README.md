@@ -33,9 +33,13 @@ For this analysis, a random sample of 150,000 papers published between 2023 and 
 ## Repository Structure
 
 ├── trends_project.ipynb 
+
 ├── requirements.txt 
+
 ├── README.md 
+
 └── data/ # Folder for the dataset (not uploaded to GitHub)
+
 └── arxiv-metadata-oai-snapshot.json
 
 
