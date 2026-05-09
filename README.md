@@ -111,7 +111,7 @@ The notebook generates the following figures:
 
 ## Limitations & Future Work
 
-Due to the inherent semantic overlap between scientific disciplines, the resulting clusters are not perfectly separable. However, they still reveal meaningful macro-structures and trends.
+Due to the inherent semantic overlap between scientific disciplines, the resulting clusters are not perfectly separable. However, they still reveal meaningful structures and trends.
 
 Only abstracts (not full‑text) are used: some detail may be lost.
 
