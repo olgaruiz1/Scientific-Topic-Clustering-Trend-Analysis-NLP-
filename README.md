@@ -1,5 +1,5 @@
 # Scientific Topic Clustering and Trend Analysis (NLP)
-Unsupervised clustering of 150k arXiv abstracts to discover emerging scientific topics and support research collaboration decisions. Built with Python, scikit‑lear and pandas.
+Unsupervised clustering of 150k arXiv abstracts to discover emerging scientific topics and support research collaboration decisions. Built with Python, scikit‑learn and pandas.
 
 <img width="850" height="500" alt="Captura de pantalla 2026-05-08 a las 17 23 26" src="https://github.com/user-attachments/assets/50c34b71-c065-47f7-935c-6948dd25f72c" />
 
